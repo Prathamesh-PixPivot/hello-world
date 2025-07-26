@@ -1,4 +1,4 @@
-Welcome, Future Collaborators!
+qWelcome, Future Collaborators!
 🎉 Welcome to the interactive activity for our "GitHub for Beginners" session! 🎉
 
 The goal of this project is simple: to collaboratively create an awesome list of learning resources for people new to tech. By adding your favorite resource, you will complete the full GitHub workflow and make your very first open-source contribution.
@@ -15,7 +15,7 @@ Edit the File: In your newly forked repository, click on this README.md file and
 
 Add Your Resource: Add a link to your favorite resource at the bottom of the list. Please try to follow this format:
 
-* [Arshiya K](https://link-to-the-resource.com/) - A brief description of why it's great.
+* [Arshiya](https://link-to-the-resource.com/) - A brief description of why it's great.
 
 Commit Your Changes: Scroll to the bottom of the page. In the "Commit changes" box, write a short, clear message that describes your contribution. For example: Add The Odin Project to the list. Then, click the green Commit changes button.
 
