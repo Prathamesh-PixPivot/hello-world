@@ -1,4 +1,4 @@
-Welcome, Future Collaborators!
+RiddhiWelcome, Future Collaborators!
 🎉 Welcome to the interactive activity for our "GitHub for Beginners" session! 🎉
 
 The goal of this project is simple: to collaboratively create an awesome list of learning resources for people new to tech. By adding your favorite resource, you will complete the full GitHub workflow and make your very first open-source contribution.
