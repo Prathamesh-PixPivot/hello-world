@@ -16,7 +16,7 @@ Edit the File: In your newly forked repository, click on this README.md file and
 Add Your Resource: Add a link to your favorite resource at the bottom of the list. Please try to follow this format:
 
 * [Name of the Resource](https://link-to-the-resource.com/) - A brief description of why it's great.
-
+Sharayu Kathalkar 
 Commit Your Changes: Scroll to the bottom of the page. In the "Commit changes" box, write a short, clear message that describes your contribution. For example: Add The Odin Project to the list. Then, click the green Commit changes button.
 
 Open a Pull Request: Go back to the main page of your forked repository. You should see a banner that says "This branch is 1 commit ahead...". Click the Contribute button and then Open pull request.
